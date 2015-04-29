@@ -1,0 +1,20 @@
+[
+    {
+        "id": 182236412,
+        "nickname": "TETE1783435",
+        "password": "qatest5767",
+        "site_status": "active",
+        "email": "test_user_91944847@testuser.com",
+        "access_token": "TEST-8720700524978125-042908-c751b4a85e5f6b0f0cc4f2b727b3712b__LA_LB__-182236412",
+        "public_key": "TEST-14a9064b-ea1e-4d96-b727-76e34856e963",
+        "detail": "Vendedor"
+    },
+    {
+        "id": 182239298,
+        "nickname": "TETE7362709",
+        "password": "qatest776",
+        "site_status": "active",
+        "email": "test_user_64815011@testuser.com",
+        "detail": "Comprador"
+    }
+]
