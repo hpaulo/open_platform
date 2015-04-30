@@ -16,5 +16,18 @@
         "site_status": "active",
         "email": "test_user_64815011@testuser.com",
         "detail": "Comprador"
-    }
+    },
+    {
+        "id": 181215541,
+        "nickname": "TETE5433507",
+        "password": "qatest8150",
+        "site_status": "active",
+        "email": "test_user_40076148@testuser.com",
+        "detail": "Comprador dinheiro em conta"
+    },
+    
+    
 ]
+
+
+		
